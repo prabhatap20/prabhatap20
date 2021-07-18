@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **prabhatap20/prabhatap20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Prabhat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Prabhat Kumar Tiwari</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatap20&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatap20" /> </p>
 
