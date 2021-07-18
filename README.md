@@ -11,10 +11,11 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **Mern stack**
-
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m working on improving **Problem Solving skills**
 
 - 🖥️ I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+
+- 💬 Ask me about **anything and everything**.
 
 - 📫 How to reach me **GMail I'd** **prabhatap20@gmail.com**
 </br>
