@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Nitian**
 
-- 📫 How to reach me **tiwaryprabhat20@gmail.com**
+- 📫 How to reach me **prabhatap20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
