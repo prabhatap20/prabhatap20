@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Mern stack**
 
 
-- ⌨️ I’m currently working on **coding skills**. <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/></br>
+- ⌨️ I’m currently working on **coding skills**.<p> <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/></p>
 </br>
 
 - 🌱 I’m working on improving **Problem Solving skills**
@@ -19,7 +19,7 @@
 - 💬 Ask me about **anything and everything**.
 
 - 📫 How to reach me **GMail I'd** **prabhatap20@gmail.com**
-</br>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/tiwaryprabhat21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiwaryprabhat21" height="30" width="40" /></a>
