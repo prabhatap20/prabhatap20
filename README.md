@@ -29,7 +29,7 @@
 <a href="https://www.youtube.com/c/techblogg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techblogg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prabhatap20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prabhatap20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prabhatap20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prabhatap20" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/prabhatap20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prabhatap20" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@prabhatap20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prabhatap20" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prabhatap20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prabhatap20" height="30" width="40" /></a>
 </p>
 </br>
