@@ -11,6 +11,11 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **Mern stack**
+
+
+- ⌨️ I’m currently working on coding skills. <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/>
+
+
 - 🌱 I’m working on improving **Problem Solving skills**
 
 - 🖥️ I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
@@ -46,3 +51,6 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prabhatap20.prabhatap20)
+
+</br>
+<img height="185" alt="Github Streak" src="https://camo.githubusercontent.com/797ae82e5bbab42afb65299666ccea8e4328bb6470407c14bcef614dab6fabe6/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f323030772e776562703f6369643d656366303565343779727a6e687964347731636e77626533686c696c706d6c733363306d7273796d68647a6d7a70357a267269643d323030772e77656270" data-canonical-src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&amp;rid=200w.webp" style="max-width:100%;">
