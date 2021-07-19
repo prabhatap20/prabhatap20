@@ -1,11 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 # <h1 align="center">Hi 👋, I'm Prabhat Kumar Tiwari</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatap20&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatap20" /> </p>
-
-</br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
@@ -13,7 +9,7 @@
 - 🔭 I’m currently working on **Mern stack**
 
 
-- ⌨️ I’m currently working on coding skills. <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/>
+- ⌨️ I’m currently working on **coding skills**. <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/>
 
 
 - 🌱 I’m working on improving **Problem Solving skills**
