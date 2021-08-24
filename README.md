@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-Hi 👋, I'm Prabhat Kumar Tiwari
+<p align="center">   Hi 👋, I'm Prabhat Kumar Tiwari</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatap20&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatap20" /> </p>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
@@ -43,7 +43,7 @@ Hi 👋, I'm Prabhat Kumar Tiwari
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatap20&show_icons=true&locale=en" alt="prabhatap20" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatap20&" alt="prabhatap20" /></p>
-<h2>Thanks For Visiting My Profile 🤗</h2>
+## <h2>Thanks For Visiting My Profile 🤗</h2>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prabhatap20.prabhatap20)
