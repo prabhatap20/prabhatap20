@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-# <h1 align="center">Hi 👋, I'm Prabhat Kumar Tiwari</h1>
+<h1 align="center">Hi 👋, I'm Prabhat Kumar Tiwari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatap20&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatap20" /> </p>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **Mern stack**
 
