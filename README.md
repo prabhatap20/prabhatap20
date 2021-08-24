@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center">Hi 👋, I'm Prabhat Kumar Tiwari</h1>
+Hi 👋, I'm Prabhat Kumar Tiwari
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatap20&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatap20" /> </p>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
@@ -48,5 +48,5 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prabhatap20.prabhatap20)
 
-</br>
+
 <img height="185" alt="Github Streak" src="https://camo.githubusercontent.com/797ae82e5bbab42afb65299666ccea8e4328bb6470407c14bcef614dab6fabe6/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f323030772e776562703f6369643d656366303565343779727a6e687964347731636e77626533686c696c706d6c733363306d7273796d68647a6d7a70357a267269643d323030772e77656270" data-canonical-src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&amp;rid=200w.webp" style="max-width:100%;">
