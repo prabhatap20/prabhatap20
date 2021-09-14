@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<img height="202.4" width="1012" alt="Github Streak" src="https://media-fastly.hackerearth.com/media/hackathon/sept-circuits-21/images/3a04cef80f-September-Circuits.gif" data-canonical-src=" " style="max-width:100%;">
+
 
 <p align="center"> <h1> Hi 👋, I'm Prabhat Kumar Tiwari &emsp; &emsp;👉 <a href="https://prabhatap20.github.io/Prabhat_Portfolio/">PORTFOLIO</a> 👈 </h1></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatap20&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatap20" /> </p>
@@ -48,5 +49,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prabhatap20.prabhatap20)
 
-</br>
-<img height="202.4" width="1012" alt="Github Streak" src="https://media-fastly.hackerearth.com/media/hackathon/sept-circuits-21/images/3a04cef80f-September-Circuits.gif" data-canonical-src=" " style="max-width:100%;">
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
