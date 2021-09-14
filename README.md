@@ -49,4 +49,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prabhatap20.prabhatap20)
 
 </br>
-<img height="185" width="190" alt="Github Streak" src="https://media-fastly.hackerearth.com/media/hackathon/sept-circuits-21/images/3a04cef80f-September-Circuits.gif" data-canonical-src=" " style="max-width:100%;">
+<img height="202.4" width="1012" alt="Github Streak" src="https://media-fastly.hackerearth.com/media/hackathon/sept-circuits-21/images/3a04cef80f-September-Circuits.gif" data-canonical-src=" " style="max-width:100%;">
